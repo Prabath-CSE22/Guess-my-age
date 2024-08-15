@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background-size: cover;
+  background-image: url("D:/Progamming Works/AthalWada/NEW/Multi Threading/New folder (2)/Git/Website2/my-react-app/src/assets/OIP.jpeg");
+  background-repeat: no-repeat;
+
+}
+#card{
+  border: 1px solid none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px gray;
+  padding: 20px;
+  margin: 10px;
+  display: inline-block;
+  background: transparent;
+  backdrop-filter: blur(10px);
+
+}
+#profilepic{
+  border-radius: 50%;
+  max-width: 60%;
+  height: auto;
+  margin: 10px;
+}
+h1{
+  margin-bottom: 0px;
+  color: #a6a1a9;
+}
+
+#age{
+  text-align: center;
+  width: 100%;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin: 5px;
+  color: white;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: transparent;
+}
+
+#age::placeholder{
+  color: rgba(255, 255, 255, 0.799);
+  text-align: center;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#submit{
+  text-align: center;
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin: 5px;
+  color: white;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: transparent;
+}
